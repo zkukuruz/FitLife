@@ -1,4 +1,4 @@
-from constants import WATER_PER_KG, ML_IN_LITER
+from constants import ML_IN_LITER, WATER_PER_KG
 
 user_name = input("Как тебя зовут? ").title()
 
