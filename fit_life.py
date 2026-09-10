@@ -24,6 +24,6 @@ print(f"Тебе {user_age} лет.")
 print(f"Твой Индекс Массы Тела: {round(bmi, 1)}")
 print(
     f"Рекомендуемая норма воды: "
-    f"{round(water_needed / ML_IN_LITER, 2)} л. в день"
+    f"{round(water_needed / ML_IN_LITER, 2)} л. в день",
 )
 print("Расчет окончен. Будьте здоровы!")
